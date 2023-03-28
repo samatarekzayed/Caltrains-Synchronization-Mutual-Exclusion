@@ -47,4 +47,4 @@ CalTrain (the train running in California, USA) has decided to improve its effic
 ## 4. How to run
 * $make
 * $chmod a+x repeat.sh
-* ./repeat.sh
+* $./repeat.sh
