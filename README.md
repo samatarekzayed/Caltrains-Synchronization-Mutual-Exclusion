@@ -43,3 +43,8 @@ CalTrain (the train running in California, USA) has decided to improve its effic
 * This assignment is based on assignment0 offered at Stanford CS140 Operating Systems.
 * There’s no report required.
 * Implementation hints: For more information on how to use locks, condition variables and monitors in C, please check the following [link](https://web.stanford.edu/~ouster/cgi-bin/cs140-spring20/lecture.php?topic=locks#:~:text=Condition%20variables%3A%20used%20to%20wait,re%2Dacquire%20lock%20before%20returning.)
+
+## 4. How to run
+* $make
+* $chmod a+x repeat.sh
+* ./repeat.sh
